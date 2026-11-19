@@ -1,0 +1,48 @@
+{
+  "_說明": "老師（作者）在這裡填各平台的推薦／聯盟連結。url 留空代表『不放連結』，流程只會介紹工具，不會附連結。這份檔案放在公開倉庫時，裡面的連結任何人都看得到。",
+  "_揭露句": "此為推薦連結，若你透過它註冊，作者可能獲得回饋；你不需要透過它也能使用。",
+  "tools": [
+    {
+      "id": "elevenlabs",
+      "name": "ElevenLabs",
+      "purpose": "文字轉語音、聲音複製（只能用自己的聲音或已取得同意的聲音）",
+      "when_needed": "學生要做配音或旁白時",
+      "url": "",
+      "alternatives": [
+        "用自己的聲音直接錄",
+        "其他文字轉語音工具"
+      ],
+      "program_terms_checked": "",
+      "last_checked": "",
+      "notes": "聯盟計畫的條款、回饋比例、Cookie 期限請作者自己到官方頁面確認，這裡不預設任何數字。"
+    },
+    {
+      "id": "higgsfield",
+      "name": "Higgsfield",
+      "purpose": "AI 影像與影片生成",
+      "when_needed": "學生要做 AI 圖或短片素材時",
+      "url": "",
+      "alternatives": [
+        "用自己拍的素材",
+        "其他影像生成工具"
+      ],
+      "program_terms_checked": "",
+      "last_checked": "",
+      "notes": "同上。只能用自己的臉與聲音，或已取得同意的素材。"
+    },
+    {
+      "id": "manychat",
+      "name": "ManyChat",
+      "purpose": "Instagram 留言關鍵字自動私訊",
+      "when_needed": "學生要做導流時",
+      "url": "",
+      "alternatives": [
+        "LINE 官方帳號",
+        "只在簡介放連結，不做自動回覆"
+      ],
+      "program_terms_checked": "",
+      "last_checked": "",
+      "notes": "連結由作者填寫。填了就必須揭露。"
+    }
+  ]
+}
